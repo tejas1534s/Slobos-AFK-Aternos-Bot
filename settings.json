@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SadulShahar.aternos.me",
-    "port": 13165,
+    "port":13165,
     "version": "",
     "try-creative": false
   },
